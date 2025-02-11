@@ -8,3 +8,4 @@ var pais_y_continente = pais+' '+continente; //Concatenación de dos variables s
 pais = "Chile";
 console.log(pais, continente, antiguedad);
 
+ 
