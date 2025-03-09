@@ -10,6 +10,6 @@ for (var i = 1; i <= 10; i++) {
 for (var c = 1; c <= 10; c++) {
     document.write("<h1>Tabla del número " +c+ "</h1>");
     for (var i = 1; i <= 10; i++) {
-        document.write(i + " X " + c + " = " + (i * c) + "<br/>");
+        document.write(c + " X " + i + " = " + (i * c) + "<br/>");
     }
 }
