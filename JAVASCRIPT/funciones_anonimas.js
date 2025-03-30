@@ -10,7 +10,7 @@ function sumame(numero1, numero2, suma_y_muestra, suma_por_dos){
     suma_por_dos(sumar);
     return sumar;
 }
-sumame(5, 7, function (dato){
+sumame(5, 7, function(dato){
     console.log("La suma es: ", dato); 
 },
 function(dato){
